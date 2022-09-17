@@ -1,1 +1,2 @@
 # odin-landing-page
+This project is to create a landing page using the elements given in  the Odin Foundations the first thing is to create the repository then get the html boilerplate started. As this is landing page will involve a lot of newly learned elements I am going to start off section by section. 
